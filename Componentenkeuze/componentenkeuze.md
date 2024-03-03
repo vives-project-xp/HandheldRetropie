@@ -35,5 +35,5 @@ We hebben gekozen om een BMS bordje te kopen voor het opladen van de batterij. D
 Ingangsspanning: 3,5 - 35 VDC
 Uitgangsspanning: 5 - 55 VDC (instelbaar)
 Max. ingangsstroom: 3 A
-Spanningsregelaar met LM2577 omvormer van Texas Instruments
+We hebben deze component gekozen omdat dit de specificaties zijn die we nodig hebben voor onze pi.
 
