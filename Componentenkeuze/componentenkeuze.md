@@ -16,7 +16,7 @@ We hebben ook een heatsink gekocht om de warmte van de cpu af te voeren.
 
 <img src = "pictures/batterij.jpg">
 
-We hebben deze batterij gekozen omdat we dit goed kunnen plaatsen aan de zijkant kunnen plaatsen van onze retropie. We hebben ook genoeg capaciteit aangezien we 2 batterijen parallel plaatsen wat uitkomt op 5200mAh.
+We hebben de 18650 batterijzn gekozen omdat deze niet veel plaats innemen en een grote capaciteit hebben, we zullen van deze batterijen 2 groepen van 2 in serie zetten. De 2 groepen zullen in parallel staan, hierdoor verdubbelen we de spanning en de capaciteit.
 
 
 ## 3. Speaker
