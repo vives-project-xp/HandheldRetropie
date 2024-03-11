@@ -41,5 +41,7 @@ We hebben dit component gekozen omdat onze spanning van de batterijen te hoog is
 
 ## 6. Buttons
 
-<img src = "pictures/image.jpg" height = 300>
+<img src = "pictures/Schermafbeelding 2024-03-11 122303.png" height = 300>
+
+We hebben soft-touch buttons gekozen
 
