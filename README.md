@@ -5,13 +5,18 @@
 
 
 ## Introduction
-Welcome to the RetroPie Project! RetroPie is a versatile software solution that allows you to transform your Raspberry Pi into a full-fledged retro gaming console. It takes you back to the golden days of gaming where the concept was very simple but still fun. So you can play all the classic games you want, from Tetris to Mario. It does take you back to your childhood
+Welcome to the RetroPie Project! RetroPie is a versatile software solution that allows you to transform your Raspberry Pi into a full-fledged retro gaming console. It takes you back to the golden days of gaming where the concept was very simple but still fun. So you can play all the classic games you want, from Tetris to Mario. It does take you back to your childhood.
 
 ## Features
 
-- The console is battery-powered
-- It can be charged with USB-C
-- Designing PCB so that it takes up as little space as possible
+- The console is battery-powered.
+- Easy to switch batterys.
+- Designing PCB so that it takes up as little space as possible.
+- Custom made casing.
+- Uploading new games trough wifi.
+- Battery indicator.
+- Active cooling with PWM fans.
+- Build in speakers.
 
 
 ## Software
