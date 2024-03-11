@@ -4,7 +4,7 @@
 
 ## 1. Koeling
 
-<img src = "image.webp" height = 300></img>
+<img src = "pictures/image.webp" height = 300></img>
 
 We hebben gekozen voor voor zeer kleine ventilatoren voor koeling. Aangezien we niet veel plaats hebben in de retropie is dit ideaal. We hebben 2 verschillende soorten besteld kleinere,  en iets grotere met als voordeel dat de grotere ventilatoren een grotere inhoud kan koelen. We zullen op de batterij koelen en 
 
