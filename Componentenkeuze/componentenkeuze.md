@@ -6,7 +6,7 @@
 
 <img src = "pictures/image.webp" height = 300></img>
 
-We hebben gekozen voor voor zeer kleine ventilatoren voor koeling. Aangezien we niet veel plaats hebben in de retropie is dit ideaal. We hebben 2 verschillende soorten besteld kleinere,  en iets grotere met als voordeel dat de grotere ventilatoren een grotere inhoud kan koelen. We zullen op de batterij koelen en 
+We hebben gekozen voor voor zeer kleine ventilatoren voor koeling (20x20x10mm). Aangezien we niet veel plaats hebben in de retropie is dit ideaal. Er zullen 3 fans aanwezig zijn, 2 voor de batterijen en 1 voor de processor.
 
 We hebben ook een heatsink gekocht om de warmte van de cpu af te voeren.
 
