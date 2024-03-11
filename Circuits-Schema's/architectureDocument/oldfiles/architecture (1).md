@@ -3,7 +3,7 @@
  <h1>Architecture Document </h1>
  <h2>1. Functie, Product, Systeem</h2>
  <p>Algemene voorstelling van ons project.</p>
-<img src = "functieProductSysteem.png">
+<img src = "images/functieProductSysteem.png">
 
 <h2>2. Input/output lijst</h2>
 
