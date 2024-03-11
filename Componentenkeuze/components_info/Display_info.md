@@ -1,1 +1,1 @@
-https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjTg8jKq-yEAxUthP0HHRkdA9EQFnoECA8QAQ&url=https%3A%2F%2Fwww.elecrow.com%2Fdownload%2Fproduct%2FDIS00005R%2FElecrow_RC050S_5_Inch_HDMI_Touchscreen_Monitor_User_Manual.pdf&usg=AOvVaw36wy9lmB-PFatYsFjObo82&opi=89978449 
+
