@@ -22,13 +22,13 @@ We hebben de 18650 batterijzn gekozen omdat deze niet veel plaats innemen en een
 ## 3. Speaker
 <img src = "pictures/speaker.jpg" height = 300>
 
-Hier hebben we gewoon gekeken naar wat er in de behuizing zou passen dus mocht het niet te dik zijn.
+We hebben gekozen voor een 8ohm + 1 watt speaker, dit door het compacte formaat. We zullen hier 2 van gebruiken in de retropie.
 
 ## 4. BMS
 
 <img src="pictures/BMS.webp" height = 300>
 
-We hebben gekozen om een BMS bordje te kopen voor het opladen van de batterij. De reden hiervoor is dat batterijen opladen heel delicaat is en veel kennis nodig heeft. Dit bordje is een goede oplossing het is een battery management system en het beschermd tegen te diepe ontlading en overlading.
+De Bms zorgt voor het even ontladen van de batterijen in serie. Dit is belangrijk voor de veiligheid.
 
 ## 5. Step down converter
 
@@ -37,5 +37,5 @@ We hebben gekozen om een BMS bordje te kopen voor het opladen van de batterij. D
 Ingangsspanning: 3,5 - 35 VDC
 Uitgangsspanning: 5 - 55 VDC (instelbaar)
 Max. ingangsstroom: 3 A
-We hebben deze component gekozen omdat dit de specificaties zijn die we nodig hebben voor onze pi.
+We hebben dit component gekozen omdat onze spanning van de batterijen te hoog is, deze converter zal de spanning omzetten naar 5V, dit is bruikbaar voor al onze componenten.
 
