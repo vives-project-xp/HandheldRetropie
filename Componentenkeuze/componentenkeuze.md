@@ -39,3 +39,7 @@ Uitgangsspanning: 5 - 55 VDC (instelbaar)
 Max. ingangsstroom: 3 A
 We hebben dit component gekozen omdat onze spanning van de batterijen te hoog is, deze converter zal de spanning omzetten naar 5V, dit is bruikbaar voor al onze componenten.
 
+## 6. Buttons
+
+<img src = "pictures/image.jpg" height = 300>
+
