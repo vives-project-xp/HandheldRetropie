@@ -45,3 +45,15 @@ We hebben dit component gekozen omdat onze spanning van de batterijen te hoog is
 
 We hebben soft-touch buttons gekozen
 
+## 7. Amplifier
+
+<img src = "pictures/image.jpg" height = 300>
+
+<img src = "pictures/image.jpg" height = 300>
+
+<img src = "pictures/image.jpg" height = 300>
+
+<img src = "pictures/image.jpg" height = 300>
+
+
+
