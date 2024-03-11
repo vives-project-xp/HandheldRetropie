@@ -6,7 +6,7 @@
 
 <img src = "pictures/image.webp" width = 300></img>
 
-We hebben gekozen voor voor zeer kleine ventilatoren voor koeling (20x20x10mm). Aangezien we niet veel plaats hebben in de retropie is dit ideaal. Er zullen 3 fans aanwezig zijn, 2 voor de batterijen en 1 voor de processor.
+We hebben gekozen voor voor zeer kleine ventilatoren voor koeling (20x20x10mm). Aangezien we niet veel plaats hebben in de retropie is dit ideaal. Er zullen 3 fans aanwezig zijn, 2 voor de batterijen en 1 voor de processor. Deze worden gestuurd door een PWM signaal, beïnvloed door de ingebouwde temp sensor van de raspberry. Of door de temp sensors die wij bij de batterijen hebben gestoken.
 
 <img src = "pictures/Schermafbeelding 2024-03-11 120805.png" width = 300></img>
 
@@ -16,7 +16,7 @@ We hebben ook een heatsink gekocht om de warmte van de cpu af te voeren.
 
 <img src = "pictures/batterij.jpg">
 
-We hebben de 18650 batterijzn gekozen omdat deze niet veel plaats innemen en een grote capaciteit hebben, we zullen van deze batterijen 2 groepen van 2 in serie zetten. De 2 groepen zullen in parallel staan, hierdoor verdubbelen we de spanning en de capaciteit.
+We hebben de 18650 batterijen gekozen omdat deze niet veel plaats innemen en een grote capaciteit hebben, we zullen van deze batterijen 2 groepen van 2 in serie zetten. De 2 groepen zullen in parallel staan, hierdoor verdubbelen we de spanning en de capaciteit.
 
 
 ## 3. Speaker
@@ -43,17 +43,17 @@ We hebben dit component gekozen omdat onze spanning van de batterijen te hoog is
 
 <img src = "pictures/Schermafbeelding 2024-03-11 122303.png" width = 300>
 
-We hebben soft-touch buttons gekozen
+We hebben soft-touch buttons gekozen. Hierop zullen wij ge-3d printe buttons op monteren.
 
 ## 7. Amplifier
 
-<img src = "pictures/amp_ic.png" width = 300>
+Wij zullen onze eigen amplifier maken die wij zullen monteren op onze PBC
 
-<img src = "pictures/amp_cond_1.png" width = 300>
+## 8. PCB
 
-<img src = "pictures/amp_cond_0_1.png" width = 300>
+## 9. Temp-sensor
 
-<img src = "pictures/amp_cond0_39.png" width = 300>
+## 10. 3D-prints
 
-
+Wij zullen vooral PLA prints gebruiken, maar voor een doorzichtige achterkant te creëren zullen wij PETG gebruiken
 
