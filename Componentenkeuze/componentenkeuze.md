@@ -47,13 +47,13 @@ We hebben soft-touch buttons gekozen
 
 ## 7. Amplifier
 
-<img src = "pictures/amp_ic.png" height = 300>
+<img src = "pictures/amp_ic.png" width = 300>
 
-<img src = "pictures/amp_cond_1.png" height = 300>
+<img src = "pictures/amp_cond_1.png" width = 300>
 
-<img src = "pictures/amp_cond_0_1.png" height = 300>
+<img src = "pictures/amp_cond_0_1.png" width = 300>
 
-<img src = "pictures/amp_cond0_39.png" height = 300>
+<img src = "pictures/amp_cond0_39.png" width = 300>
 
 
 
