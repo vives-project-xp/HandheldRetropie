@@ -66,7 +66,7 @@ Deze worden gebruikt in de amplifier.
 
 ## 13. Amplifier IC
 
-Het geluid wordt hier versterkt, terwijl het in een kleine vormfactor blijft.
+Het geluid wordt hier versterkt zodat het bruikbaar wordt, terwijl het in een kleine vormfactor blijft.
 
 ## 14. Buttons
 
@@ -76,7 +76,11 @@ We hebben soft-touch buttons gekozen. Hierop zullen wij ge-3d printe buttons op 
 
 ## 15. Display
 
+Een 5inch scherm wordt gebruikt als output. Deze is vast gemonteerd aan onze raspberry pi.
+
 ## 16. HDMI to micro-HDMI
+
+De raspberry pi 4 heeft een micro-hdmi aansluiting, het scherm die we gebruiken kan je hiermee makkelijk aansluiten via de hmdi poort die voorzien is.
 
 
 
