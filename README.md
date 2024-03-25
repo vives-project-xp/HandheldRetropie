@@ -3,6 +3,8 @@
 
 <img src="https://github.com/vives-project-xp/HandheldRetropie/assets/113902824/c3d0e3a4-2eeb-40a0-a56e-c8859b5e5226" width="500" />
 
+These pictures are early renders of how the project should look.
+
 
 ## Introduction
 Welcome to the RetroPie Project! RetroPie is a versatile software solution that allows you to transform your Raspberry Pi into a full-fledged retro gaming console. It takes you back to the golden days of gaming where the concept was very simple but still fun. So you can play all the classic games you want, from Tetris to Mario. It does take you back to your childhood.
