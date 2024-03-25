@@ -7,7 +7,6 @@ https://www.instructables.com/Easy-Retro-Console/
 
 
 filmpje retropie:
-
 https://youtu.be/gkook0l_gsM
 
 
