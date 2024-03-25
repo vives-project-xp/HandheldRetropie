@@ -20,4 +20,6 @@ Welcome to the RetroPie Project! RetroPie is a versatile software solution that 
 
 
 ## Software
-One of the essential parts of the Retropie and maybe the beating heart of the project is the emulator. This is a software that makes it possible to put older games on a recent console. They actually form a bridge between the present and the past. This allows gamers to enjoy old games without playing on an old console.
+One of the essential parts of the Retropie and maybe the beating heart of the project is the emulator. This is a software that makes it possible to put older games on a recent console. They actually form a bridge between the present and the past. This allows gamers to enjoy old games without playing on an old console. There will be a program running parallel with the games that calculates a PWM signal for cooling the system. This is calculated by the temperature inside the processor. the hotter it gets, the higher the PWM duty cycle gets, and thus cooling the system more.
+
+
