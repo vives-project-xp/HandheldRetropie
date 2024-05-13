@@ -48,6 +48,11 @@ since we have a gathering of small projects fused in to 1 we had to test multipl
 -batterys
 -3d prints
 
+## what happend at what time
+xxxxxxxxx
+
+##
+
 
 
 
