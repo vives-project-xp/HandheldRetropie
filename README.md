@@ -36,6 +36,18 @@ Since the batterys operate at a voltage between 7,4V to 8,2V we need an inverter
 
 ## Setup
 -emulator install
+-mounting everything at place x
+
+
+## Tests
+since we have a gathering of small projects fused in to 1 we had to test multiple components and circuits.
+-converter
+-amplifier
+-screen
+-emulator
+-batterys
+-3d prints
+
 
 
 
