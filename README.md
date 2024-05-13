@@ -18,10 +18,25 @@ Welcome to the RetroPie Project! RetroPie is a versatile software solution that 
 - Uploading new games trough wifi.
 - Battery indicator.
 - Active cooling with PWM fans.
-- Build in speakers.
+- Build in speaker.
 
 
 ## Software
 One of the essential parts of the Retropie and maybe the beating heart of the project is the emulator. This is a software that makes it possible to put older games on a recent console. They actually form a bridge between the present and the past. This allows gamers to enjoy old games without playing on an old console. There will be a program running parallel with the games that calculates a PWM signal for cooling the system. This is calculated by the temperature inside the processor. the hotter it gets, the higher the PWM duty cycle gets, and thus cooling the system more.
+
+## 3d prints
+We've devided the 3d print in multiple parts so that these are easier to print. That's why there are 6 diffrent parts for the controller itself. The rest of the prints are the buttons. The controller can be connected trough connecting points that need to be glued together, this is only for the top side. The bottom side will be mounted with screws to the topside.
+All of our prints were designed with fusion 360, the instructions to design certain models is in the 'handleiding fusion 360' folder.
+
+## PCB design
+Our pcb is also designed with fusion 360. The instructions to design 1 yourself are also in the 'xxxxxxxxxxxxxxxxxxxxx' folder. Our pcb holds all the buttons, the amplifier and the battery indicator. The PCB also has some holed that are provided to mount the pcb to the 3d case.
+
+# Hardware
+Since the batterys operate at a voltage between 7,4V to 8,2V we need an inverter so that we can create a 5V circuit since most components only work with 5V. The sound is produced by our own aplifier system and a small 8 Ohm 1 Watt speaker. We have PWM fans that are spinning accordanly to the CPU temperature. To monitor our battery life we are using an led-indicator, which simpely uses resistors,leds and diodes
+
+## Setup
+-emulator install
+
+
 
 
