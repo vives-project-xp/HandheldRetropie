@@ -51,9 +51,6 @@ since we have a gathering of small projects fused in to 1 we had to test multipl
 ## what happend at what time
 xxxxxxxxx
 
-##
-
-
-
-
-
+## BOM
+This is the material we used to make our retropie.
+![alt text](image.png)
